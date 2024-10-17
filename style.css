@@ -101,6 +101,7 @@ body{
 @media(max-width:1150px){
     form{
         width: 35%;
+        height: max-content;
 
     }
 }
